@@ -709,14 +709,17 @@ class _HomePageState extends State<HomePage> {
               },
             ),
           ),
-          const Padding(
-            padding: EdgeInsets.symmetric(vertical: 12.0),
-            child: Text(
-              "Made by @LegendAmardeep",
-              style: TextStyle(
-                color: Colors.white54,
-                fontSize: 12,
-                fontWeight: FontWeight.w400,
+          const SafeArea(
+            top: false,
+            child: Padding(
+              padding: EdgeInsets.symmetric(vertical: 12.0),
+              child: Text(
+                "Made by @LegendAmardeep",
+                style: TextStyle(
+                  color: Colors.white54,
+                  fontSize: 12,
+                  fontWeight: FontWeight.w400,
+                ),
               ),
             ),
           ),
