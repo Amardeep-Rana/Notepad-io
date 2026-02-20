@@ -1,0 +1,18 @@
+# notepad_io
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
+notepad_io is a fast, offline and privacy-focused notepad app for long notes. It features open canvas writing, find & replace, per-file password lock, modern dark UI with light canvas, smooth animations, and secure local storage with no ads or tracking.
